@@ -1,0 +1,32 @@
+html {
+    background-color: rgb(7, 245, 86);
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+p {
+    text-indent: 2%;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+ul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+ol {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
